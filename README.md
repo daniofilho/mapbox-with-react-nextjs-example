@@ -1,6 +1,6 @@
 # Mapbox - React / NextJS working example
 
-[DEMO]()
+[DEMO](https://mapbox-with-react-nextjs-example.vercel.app/)
 
 This is an example of a project in NextJS using [Mapbox](https://mapbox.com).
 
